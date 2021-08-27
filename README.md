@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @T3GD1F alias Felix Hoffmann.
+- 👀 I’m interested in physic and math stuff, and espacially in space travel.
+- 🌱 I’m currently learning Machine Learning (not only the machine is learning, me to ;P )
+- 💞️ I’m looking to collaborate on simulations, neural networks and everything that makes fun.
+- 📫 How to reach me: t3gd1f@gmx.de
